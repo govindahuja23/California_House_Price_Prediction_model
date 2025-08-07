@@ -3,4 +3,4 @@ streamlit==1.45.1
 random
 time 
 pickle
-scikit-learn==1.5.1
+scikit-learn==1.6.1
