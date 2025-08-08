@@ -20,7 +20,7 @@ s.sidebar.title('Select from Select House Features')
 s.sidebar.image('https://images.pexels.com/photos/462358/pexels-photo-462358.jpeg?cs=srgb&dl=architectural-design-architecture-blue-sky-462358.jpg&fm=jpg')
 
 
-temp_df = pd.read_csv('California.csv')
+temp_df = pd.read_csv('california.csv')
 
 random.seed(12) 
 for i in temp_df[col]:
